@@ -1,4 +1,4 @@
-# Welcome to the world of chat-acell!
+# Welcome to the world of chat-pcell!
 
 Description: This is a project that uses a large language model(LLM) to assisted parameterized cell(Pcell) generation.
 
